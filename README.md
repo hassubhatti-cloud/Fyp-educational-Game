@@ -19,3 +19,6 @@ https://assetstore.unity.com/packages/tools/physics/prometeo-car-controller-2094
 Some custom UI Elements From figma  were also added by me.
 
 GameObject collectable  Animations also made 
+
+MCQs from :
+https://opentdb.com/api.php?amount=100&category=18&type=multiple
