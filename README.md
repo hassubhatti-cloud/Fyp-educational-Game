@@ -22,3 +22,5 @@ GameObject collectable  Animations also made
 
 MCQs from :
 https://opentdb.com/api.php?amount=100&category=18&type=multiple
+
+Zapsplat soundeffects used
